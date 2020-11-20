@@ -1,2 +1,6 @@
-# Diabetic_Retinopathy_Diagnosis
-Diagnosing Diabetic Retinopathy from Retinal Scans using Deep Learning 
+# Diabetic Retinopathy Diagnosis with InceptionResNetV2, Xception and EfficientNetB3
+
+{Data and Models will be made available soon}
+
+
+Diabetic retinopathy (DR) is a leading cause of visual impairments in adults. Early diagnosis of this disease is crucial for a chance at fast recovery. The advent of advanced deep learning techniques for computer-aided diagnosis has led to widespread adoption of the same in the medical field. Deeper and more powerful neural network architectures have emerged in the past few years consistently outperforming the previous generation models or offering similar levels of performance with an exponentially fewer number of parameters result-ing in more efficient neural networks. Transfer learning has also taken the cen-ter stage since it introduced the concept of model reusability which led to faster convergence rates and made the training of deeper neural networks possible with limited data. This paper explores the feasibility of transfer learning with three specific architectures, namely Xception, InceptionResNetV2, and Effi-cientNetB3 pre-trained on the Imagenet problem, for the task of DR diagnosis. The Xception model achieved the highest accuracy of 84% on the binary classi-fication of IDRiD, while the InceptionResNetV2 gave us the best result of 64% for 5-ary classification. EfficientNetB3, with significantly fewer parameters, was able to provide comparable results achieving an accuracy of 81% and 62% for 2-ary and 5-ary classifications respectively.
